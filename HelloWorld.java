@@ -12,7 +12,7 @@ public class HelloWorld {
     public static void main(final String[] args) {
 
         // output hello world to the system's output device
-        System.out.println("Hello world, hello Biden.");
+        System.out.println("Hello world!");
         
     }
 
